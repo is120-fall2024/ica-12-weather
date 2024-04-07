@@ -1,0 +1,6872 @@
+{
+  "2022" : {
+    "January": {
+      "1": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 8
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "3": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "4": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Snow",
+        "high": 32,
+        "low": 28,
+        "precipitation": 0.5,
+        "humidity": 95,
+        "wind": 15
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 9
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "9": {
+        "forecast": "Partly Cloudy",
+        "high": 47,
+        "low": 35,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "10": {
+        "forecast": "Rain",
+        "high": 41,
+        "low": 34,
+        "precipitation": 0.4,
+        "humidity": 85,
+        "wind": 10
+      },
+      "11": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 28,
+        "precipitation": 0.6,
+        "humidity": 90,
+        "wind": 14
+      },
+      "12": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "13": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "16": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "17": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 41,
+        "low": 36,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      },
+      "20": {
+        "forecast": "Sunny",
+        "high": 47,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Partly Cloudy",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "22": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 36,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "23": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.7,
+        "humidity": 85,
+        "wind": 15
+      },
+      "24": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "25": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "30": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "31": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 35,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      }
+    },
+    "February": {
+      "1": {
+        "forecast": "Snow",
+        "high": 30,
+        "low": 20,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 10
+      },
+      "2": {
+        "forecast": "Snow",
+        "high": 28,
+        "low": 18,
+        "precipitation": 0.4,
+        "humidity": 88,
+        "wind": 12
+      },
+      "3": {
+        "forecast": "Cloudy",
+        "high": 32,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "4": {
+        "forecast": "Partly Cloudy",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 7
+      },
+      "5": {
+        "forecast": "Sunny",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "6": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 68,
+        "wind": 6
+      },
+      "7": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "8": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "9": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 10
+      },
+      "10": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      }
+    },
+    "March": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Rain",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.5,
+        "humidity": 85,
+        "wind": 15
+      }
+    },
+    "April": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      }
+    },
+    "May": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 65,
+        "low": 55,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 63,
+        "low": 53,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 56,
+        "low": 46,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      }
+    },
+    "June": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 90,
+        "low": 70,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "July": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 58,
+        "wind": 6
+      },
+      "3": {
+        "forecast": "Partly Cloudy",
+        "high": 91,
+        "low": 73,
+        "precipitation": 0.1,
+        "humidity": 62,
+        "wind": 7
+      },
+      "4": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "5": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "9": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "10": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "11": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "12": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "17": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "19": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "20": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "22": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "23": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "24": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "25": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "29": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "30": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "31": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      }
+    },
+    "August": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 92,
+        "low": 72,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 90,
+        "low": 70,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      }
+    },
+    "September": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 75,
+        "low": 55,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 73,
+        "low": 53,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "October": {
+      "1": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 10,
+        "humidity": 65,
+        "wind": 8
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 56,
+        "low": 46,
+        "precipitation": 5,
+        "humidity": 60,
+        "wind": 7
+      },
+      "3": {
+        "forecast": "Mostly Sunny",
+        "high": 57,
+        "low": 47,
+        "precipitation": 5,
+        "humidity": 58,
+        "wind": 6
+      },
+      "4": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 15,
+        "humidity": 63,
+        "wind": 9
+      },
+      "5": {
+        "forecast": "Cloudy",
+        "high": 54,
+        "low": 44,
+        "precipitation": 20,
+        "humidity": 68,
+        "wind": 10
+      },
+      "6": {
+        "forecast": "Rain",
+        "high": 53,
+        "low": 43,
+        "precipitation": 30,
+        "humidity": 70,
+        "wind": 12
+      },
+      "7": {
+        "forecast": "Rain",
+        "high": 52,
+        "low": 42,
+        "precipitation": 40,
+        "humidity": 72,
+        "wind": 13
+      },
+      "8": {
+        "forecast": "Thunderstorms",
+        "high": 51,
+        "low": 41,
+        "precipitation": 60,
+        "humidity": 75,
+        "wind": 15
+      },
+      "9": {
+        "forecast": "Thunderstorms",
+        "high": 50,
+        "low": 40,
+        "precipitation": 70,
+        "humidity": 78,
+        "wind": 16
+      },
+      "10": {
+        "forecast": "Thunderstorms",
+        "high": 49,
+        "low": 39,
+        "precipitation": 80,
+        "humidity": 80,
+        "wind": 17
+      },
+      "11": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 30,
+        "humidity": 75,
+        "wind": 14
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 51,
+        "low": 41,
+        "precipitation": 20,
+        "humidity": 72,
+        "wind": 12
+      },
+      "13": {
+        "forecast": "Partly Cloudy",
+        "high": 52,
+        "low": 42,
+        "precipitation": 15,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 53,
+        "low": 43,
+        "precipitation": 10,
+        "humidity": 68,
+        "wind": 8
+      },
+      "15": {
+        "forecast": "Mostly Sunny",
+        "high": 54,
+        "low": 44,
+        "precipitation": 5,
+        "humidity": 65,
+        "wind": 7
+      },
+      "16": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 5,
+        "humidity": 62,
+        "wind": 6
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 56,
+        "low": 46,
+        "precipitation": 10,
+        "humidity": 60,
+        "wind": 5
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 57,
+        "low": 47,
+        "precipitation": 10,
+        "humidity": 58,
+        "wind": 5
+      },
+      "19": {
+        "forecast": "Sunny",
+        "high": 58,
+        "low": 48,
+        "precipitation": 5,
+        "humidity": 55,
+        "wind": 5
+      },
+      "20": {
+        "forecast": "Mostly Sunny",
+        "high": 59,
+        "low": 49,
+        "precipitation": 5,
+        "humidity": 52,
+        "wind": 5
+      },
+      "21": {
+        "forecast": "Partly Cloudy",
+        "high": 60,
+        "low": 50,
+        "precipitation": 10,
+        "humidity": 50,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 59,
+        "low": 49,
+        "precipitation": 20,
+        "humidity": 55,
+        "wind": 6
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 58,
+        "low": 48,
+        "precipitation": 30,
+        "humidity": 58,
+        "wind": 7
+      },
+      "24": {
+        "forecast": "Rain",
+        "high": 57,
+        "low": 47,
+        "precipitation": 40,
+        "humidity": 60,
+        "wind": 8
+      },
+      "25": {
+        "forecast": "Rain",
+        "high": 56,
+        "low": 46,
+        "precipitation": 50,
+        "humidity": 63,
+        "wind": 9
+      },
+      "26": {
+        "forecast": "Thunderstorms",
+        "high": 55,
+        "low": 45,
+        "precipitation": 60,
+        "humidity": 65,
+        "wind": 10
+      },
+      "27": {
+        "forecast": "Thunderstorms",
+        "high": 54,
+        "low": 44,
+        "precipitation": 70,
+        "humidity": 68,
+        "wind": 11
+      },
+      "28": {
+        "forecast": "Thunderstorms",
+        "high": 53,
+        "low": 43,
+        "precipitation": 80,
+        "humidity": 70,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 52,
+        "low": 42,
+        "precipitation": 30,
+        "humidity": 65,
+        "wind": 10
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 51,
+        "low": 41,
+        "precipitation": 20,
+        "humidity": 62,
+        "wind": 8
+      },
+      "31": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 10,
+        "humidity": 60,
+        "wind": 7
+      }
+    },
+    "November": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 30,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 28,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "December": {
+      "1": {
+        "forecast": "Snowy",
+        "high": 34,
+        "low": 20,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "2": {
+        "forecast": "Snowy",
+        "high": 32,
+        "low": 18,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "3": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "4": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "5": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.9,
+        "humidity": 80,
+        "wind": 20
+      },
+      "6": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "7": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "8": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "9": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "10": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "11": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      },
+      "12": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.2,
+        "humidity": 45,
+        "wind": 5
+      },
+      "13": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.1,
+        "humidity": 40,
+        "wind": 4
+      },
+      "14": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0,
+        "humidity": 35,
+        "wind": 3
+      },
+      "15": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0,
+        "humidity": 30,
+        "wind": 2
+      },
+      "16": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0,
+        "humidity": 35,
+        "wind": 3
+      },
+      "17": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.1,
+        "humidity": 40,
+        "wind": 4
+      },
+      "18": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.2,
+        "humidity": 45,
+        "wind": 5
+      },
+      "19": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      },
+      "20": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "21": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "22": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "23": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "24": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "25": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.9,
+        "humidity": 80,
+        "wind": 20
+      },
+      "26": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "27": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "28": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "30": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "31": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      }
+    }
+  },
+  "2023" : {
+    "January": {
+      "1": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 8
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "3": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "4": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Snow",
+        "high": 32,
+        "low": 28,
+        "precipitation": 0.5,
+        "humidity": 95,
+        "wind": 15
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 9
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "9": {
+        "forecast": "Partly Cloudy",
+        "high": 47,
+        "low": 35,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "10": {
+        "forecast": "Rain",
+        "high": 41,
+        "low": 34,
+        "precipitation": 0.4,
+        "humidity": 85,
+        "wind": 10
+      },
+      "11": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 28,
+        "precipitation": 0.6,
+        "humidity": 90,
+        "wind": 14
+      },
+      "12": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "13": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "16": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "17": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 41,
+        "low": 36,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      },
+      "20": {
+        "forecast": "Sunny",
+        "high": 47,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Partly Cloudy",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "22": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 36,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "23": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.7,
+        "humidity": 85,
+        "wind": 15
+      },
+      "24": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "25": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "30": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "31": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 35,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      }
+    },
+    "February": {
+      "1": {
+        "forecast": "Snow",
+        "high": 30,
+        "low": 20,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 10
+      },
+      "2": {
+        "forecast": "Snow",
+        "high": 28,
+        "low": 18,
+        "precipitation": 0.4,
+        "humidity": 88,
+        "wind": 12
+      },
+      "3": {
+        "forecast": "Cloudy",
+        "high": 32,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "4": {
+        "forecast": "Partly Cloudy",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 7
+      },
+      "5": {
+        "forecast": "Sunny",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "6": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 68,
+        "wind": 6
+      },
+      "7": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "8": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "9": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 10
+      },
+      "10": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      }
+    },
+    "March": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Rain",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.5,
+        "humidity": 85,
+        "wind": 15
+      }
+    },
+    "April": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      }
+    },
+    "May": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 65,
+        "low": 55,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 63,
+        "low": 53,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 56,
+        "low": 46,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      }
+    },
+    "June": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 90,
+        "low": 70,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 83,
+        "low": 63,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 82,
+        "low": 62,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "July": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 58,
+        "wind": 6
+      },
+      "3": {
+        "forecast": "Partly Cloudy",
+        "high": 91,
+        "low": 73,
+        "precipitation": 0.1,
+        "humidity": 62,
+        "wind": 7
+      },
+      "4": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "5": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "9": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "10": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "11": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "12": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "17": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "19": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "20": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "22": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "23": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "24": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "25": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 94,
+        "low": 76,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 8
+      },
+      "29": {
+        "forecast": "Sunny",
+        "high": 95,
+        "low": 77,
+        "precipitation": 0,
+        "humidity": 52,
+        "wind": 9
+      },
+      "30": {
+        "forecast": "Sunny",
+        "high": 93,
+        "low": 75,
+        "precipitation": 0,
+        "humidity": 57,
+        "wind": 7
+      },
+      "31": {
+        "forecast": "Partly Cloudy",
+        "high": 92,
+        "low": 74,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 6
+      }
+    },
+    "August": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 92,
+        "low": 72,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 90,
+        "low": 70,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 85,
+        "low": 65,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 88,
+        "low": 68,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 86,
+        "low": 66,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 84,
+        "low": 64,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Sunny",
+        "high": 87,
+        "low": 67,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      }
+    },
+    "September": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 75,
+        "low": 55,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 73,
+        "low": 53,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 70,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 68,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 71,
+        "low": 51,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 69,
+        "low": 49,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 67,
+        "low": 47,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "October": {
+      "1": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 10,
+        "humidity": 65,
+        "wind": 8
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 56,
+        "low": 46,
+        "precipitation": 5,
+        "humidity": 60,
+        "wind": 7
+      },
+      "3": {
+        "forecast": "Mostly Sunny",
+        "high": 57,
+        "low": 47,
+        "precipitation": 5,
+        "humidity": 58,
+        "wind": 6
+      },
+      "4": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 15,
+        "humidity": 63,
+        "wind": 9
+      },
+      "5": {
+        "forecast": "Cloudy",
+        "high": 54,
+        "low": 44,
+        "precipitation": 20,
+        "humidity": 68,
+        "wind": 10
+      },
+      "6": {
+        "forecast": "Rain",
+        "high": 53,
+        "low": 43,
+        "precipitation": 30,
+        "humidity": 70,
+        "wind": 12
+      },
+      "7": {
+        "forecast": "Rain",
+        "high": 52,
+        "low": 42,
+        "precipitation": 40,
+        "humidity": 72,
+        "wind": 13
+      },
+      "8": {
+        "forecast": "Thunderstorms",
+        "high": 51,
+        "low": 41,
+        "precipitation": 60,
+        "humidity": 75,
+        "wind": 15
+      },
+      "9": {
+        "forecast": "Thunderstorms",
+        "high": 50,
+        "low": 40,
+        "precipitation": 70,
+        "humidity": 78,
+        "wind": 16
+      },
+      "10": {
+        "forecast": "Thunderstorms",
+        "high": 49,
+        "low": 39,
+        "precipitation": 80,
+        "humidity": 80,
+        "wind": 17
+      },
+      "11": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 30,
+        "humidity": 75,
+        "wind": 14
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 51,
+        "low": 41,
+        "precipitation": 20,
+        "humidity": 72,
+        "wind": 12
+      },
+      "13": {
+        "forecast": "Partly Cloudy",
+        "high": 52,
+        "low": 42,
+        "precipitation": 15,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 53,
+        "low": 43,
+        "precipitation": 10,
+        "humidity": 68,
+        "wind": 8
+      },
+      "15": {
+        "forecast": "Mostly Sunny",
+        "high": 54,
+        "low": 44,
+        "precipitation": 5,
+        "humidity": 65,
+        "wind": 7
+      },
+      "16": {
+        "forecast": "Partly Cloudy",
+        "high": 55,
+        "low": 45,
+        "precipitation": 5,
+        "humidity": 62,
+        "wind": 6
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 56,
+        "low": 46,
+        "precipitation": 10,
+        "humidity": 60,
+        "wind": 5
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 57,
+        "low": 47,
+        "precipitation": 10,
+        "humidity": 58,
+        "wind": 5
+      },
+      "19": {
+        "forecast": "Sunny",
+        "high": 58,
+        "low": 48,
+        "precipitation": 5,
+        "humidity": 55,
+        "wind": 5
+      },
+      "20": {
+        "forecast": "Mostly Sunny",
+        "high": 59,
+        "low": 49,
+        "precipitation": 5,
+        "humidity": 52,
+        "wind": 5
+      },
+      "21": {
+        "forecast": "Partly Cloudy",
+        "high": 60,
+        "low": 50,
+        "precipitation": 10,
+        "humidity": 50,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 59,
+        "low": 49,
+        "precipitation": 20,
+        "humidity": 55,
+        "wind": 6
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 58,
+        "low": 48,
+        "precipitation": 30,
+        "humidity": 58,
+        "wind": 7
+      },
+      "24": {
+        "forecast": "Rain",
+        "high": 57,
+        "low": 47,
+        "precipitation": 40,
+        "humidity": 60,
+        "wind": 8
+      },
+      "25": {
+        "forecast": "Rain",
+        "high": 56,
+        "low": 46,
+        "precipitation": 50,
+        "humidity": 63,
+        "wind": 9
+      },
+      "26": {
+        "forecast": "Thunderstorms",
+        "high": 55,
+        "low": 45,
+        "precipitation": 60,
+        "humidity": 65,
+        "wind": 10
+      },
+      "27": {
+        "forecast": "Thunderstorms",
+        "high": 54,
+        "low": 44,
+        "precipitation": 70,
+        "humidity": 68,
+        "wind": 11
+      },
+      "28": {
+        "forecast": "Thunderstorms",
+        "high": 53,
+        "low": 43,
+        "precipitation": 80,
+        "humidity": 70,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 52,
+        "low": 42,
+        "precipitation": 30,
+        "humidity": 65,
+        "wind": 10
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 51,
+        "low": 41,
+        "precipitation": 20,
+        "humidity": 62,
+        "wind": 8
+      },
+      "31": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 10,
+        "humidity": 60,
+        "wind": 7
+      }
+    },
+    "November": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 30,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 28,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 25,
+        "precipitation": 0,
+        "humidity": 80,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 43,
+        "low": 23,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 26,
+        "precipitation": 0.2,
+        "humidity": 90,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Cloudy",
+        "high": 44,
+        "low": 24,
+        "precipitation": 0.3,
+        "humidity": 95,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      }
+    },
+    "December": {
+      "1": {
+        "forecast": "Snowy",
+        "high": 34,
+        "low": 20,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "2": {
+        "forecast": "Snowy",
+        "high": 32,
+        "low": 18,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "3": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "4": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "5": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.9,
+        "humidity": 80,
+        "wind": 20
+      },
+      "6": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "7": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "8": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "9": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "10": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "11": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      },
+      "12": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.2,
+        "humidity": 45,
+        "wind": 5
+      },
+      "13": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.1,
+        "humidity": 40,
+        "wind": 4
+      },
+      "14": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0,
+        "humidity": 35,
+        "wind": 3
+      },
+      "15": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0,
+        "humidity": 30,
+        "wind": 2
+      },
+      "16": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0,
+        "humidity": 35,
+        "wind": 3
+      },
+      "17": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.1,
+        "humidity": 40,
+        "wind": 4
+      },
+      "18": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.2,
+        "humidity": 45,
+        "wind": 5
+      },
+      "19": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      },
+      "20": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "21": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "22": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "23": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "24": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "25": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.9,
+        "humidity": 80,
+        "wind": 20
+      },
+      "26": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.8,
+        "humidity": 75,
+        "wind": 18
+      },
+      "27": {
+        "forecast": "Snowy",
+        "high": 31,
+        "low": 17,
+        "precipitation": 0.7,
+        "humidity": 70,
+        "wind": 15
+      },
+      "28": {
+        "forecast": "Snowy",
+        "high": 30,
+        "low": 16,
+        "precipitation": 0.6,
+        "humidity": 65,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Snowy",
+        "high": 28,
+        "low": 14,
+        "precipitation": 0.5,
+        "humidity": 60,
+        "wind": 10
+      },
+      "30": {
+        "forecast": "Snowy",
+        "high": 26,
+        "low": 12,
+        "precipitation": 0.4,
+        "humidity": 55,
+        "wind": 8
+      },
+      "31": {
+        "forecast": "Snowy",
+        "high": 29,
+        "low": 15,
+        "precipitation": 0.3,
+        "humidity": 50,
+        "wind": 6
+      }
+    }
+  },
+  "2024" : {
+    "January": {
+      "1": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 8
+      },
+      "2": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "3": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "4": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Snow",
+        "high": 32,
+        "low": 28,
+        "precipitation": 0.5,
+        "humidity": 95,
+        "wind": 15
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 9
+      },
+      "8": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "9": {
+        "forecast": "Partly Cloudy",
+        "high": 47,
+        "low": 35,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "10": {
+        "forecast": "Rain",
+        "high": 41,
+        "low": 34,
+        "precipitation": 0.4,
+        "humidity": 85,
+        "wind": 10
+      },
+      "11": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 28,
+        "precipitation": 0.6,
+        "humidity": 90,
+        "wind": 14
+      },
+      "12": {
+        "forecast": "Sunny",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "13": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "16": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "17": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "18": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "19": {
+        "forecast": "Cloudy",
+        "high": 41,
+        "low": 36,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      },
+      "20": {
+        "forecast": "Sunny",
+        "high": 47,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Partly Cloudy",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "22": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 36,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "23": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 30,
+        "precipitation": 0.7,
+        "humidity": 85,
+        "wind": 15
+      },
+      "24": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "25": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 10
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 49,
+        "low": 39,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 6
+      },
+      "27": {
+        "forecast": "Partly Cloudy",
+        "high": 48,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 44,
+        "low": 35,
+        "precipitation": 0.5,
+        "humidity": 80,
+        "wind": 12
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 37,
+        "low": 30,
+        "precipitation": 0.8,
+        "humidity": 85,
+        "wind": 16
+      },
+      "30": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 37,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 7
+      },
+      "31": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 35,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 9
+      }
+    },
+    "February": {
+      "1": {
+        "forecast": "Snow",
+        "high": 30,
+        "low": 20,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 10
+      },
+      "2": {
+        "forecast": "Snow",
+        "high": 28,
+        "low": 18,
+        "precipitation": 0.4,
+        "humidity": 88,
+        "wind": 12
+      },
+      "3": {
+        "forecast": "Cloudy",
+        "high": 32,
+        "low": 22,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "4": {
+        "forecast": "Partly Cloudy",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 7
+      },
+      "5": {
+        "forecast": "Sunny",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "6": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 68,
+        "wind": 6
+      },
+      "7": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "8": {
+        "forecast": "Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 8
+      },
+      "9": {
+        "forecast": "Rain",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 10
+      },
+      "10": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 35,
+        "low": 25,
+        "precipitation": 0.4,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      }
+    },
+    "March": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 50,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 55,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 60,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 65,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0,
+        "humidity": 60,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 43,
+        "low": 33,
+        "precipitation": 0.1,
+        "humidity": 65,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.2,
+        "humidity": 70,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 38,
+        "low": 28,
+        "precipitation": 0.3,
+        "humidity": 75,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 6
+      },
+      "31": {
+        "forecast": "Rain",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.5,
+        "humidity": 85,
+        "wind": 15
+      }
+    },
+    "April": {
+      "1": {
+        "forecast": "Sunny",
+        "high": 60,
+        "low": 50,
+        "precipitation": 0,
+        "humidity": 55,
+        "wind": 5
+      },
+      "2": {
+        "forecast": "Cloudy",
+        "high": 58,
+        "low": 48,
+        "precipitation": 0.1,
+        "humidity": 60,
+        "wind": 8
+      },
+      "3": {
+        "forecast": "Rain",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0.2,
+        "humidity": 65,
+        "wind": 10
+      },
+      "4": {
+        "forecast": "Snow",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0.3,
+        "humidity": 70,
+        "wind": 12
+      },
+      "5": {
+        "forecast": "Partly Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 6
+      },
+      "6": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 65,
+        "wind": 5
+      },
+      "7": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 70,
+        "wind": 8
+      },
+      "8": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 75,
+        "wind": 10
+      },
+      "9": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 80,
+        "wind": 12
+      },
+      "10": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 85,
+        "wind": 6
+      },
+      "11": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "12": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "13": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "14": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "15": {
+        "forecast": "Partly Cloudy",
+        "high": 44,
+        "low": 34,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "16": {
+        "forecast": "Sunny",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "17": {
+        "forecast": "Cloudy",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "18": {
+        "forecast": "Rain",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "19": {
+        "forecast": "Snow",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "20": {
+        "forecast": "Partly Cloudy",
+        "high": 40,
+        "low": 30,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      },
+      "21": {
+        "forecast": "Sunny",
+        "high": 55,
+        "low": 45,
+        "precipitation": 0,
+        "humidity": 70,
+        "wind": 5
+      },
+      "22": {
+        "forecast": "Cloudy",
+        "high": 53,
+        "low": 43,
+        "precipitation": 0.1,
+        "humidity": 75,
+        "wind": 8
+      },
+      "23": {
+        "forecast": "Rain",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.2,
+        "humidity": 80,
+        "wind": 10
+      },
+      "24": {
+        "forecast": "Snow",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.3,
+        "humidity": 85,
+        "wind": 12
+      },
+      "25": {
+        "forecast": "Partly Cloudy",
+        "high": 46,
+        "low": 36,
+        "precipitation": 0.1,
+        "humidity": 90,
+        "wind": 6
+      },
+      "26": {
+        "forecast": "Sunny",
+        "high": 52,
+        "low": 42,
+        "precipitation": 0,
+        "humidity": 75,
+        "wind": 5
+      },
+      "27": {
+        "forecast": "Cloudy",
+        "high": 50,
+        "low": 40,
+        "precipitation": 0.1,
+        "humidity": 80,
+        "wind": 8
+      },
+      "28": {
+        "forecast": "Rain",
+        "high": 48,
+        "low": 38,
+        "precipitation": 0.2,
+        "humidity": 85,
+        "wind": 10
+      },
+      "29": {
+        "forecast": "Snow",
+        "high": 45,
+        "low": 35,
+        "precipitation": 0.3,
+        "humidity": 90,
+        "wind": 12
+      },
+      "30": {
+        "forecast": "Partly Cloudy",
+        "high": 42,
+        "low": 32,
+        "precipitation": 0.1,
+        "humidity": 95,
+        "wind": 6
+      }
+    }
+  }
+}
